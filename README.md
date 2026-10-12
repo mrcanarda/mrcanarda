@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Can 👋
 
-<!--
-**mrcanarda/mrcanarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer with 5+ years of experience building production applications in Germany and Turkey.
+I enjoy turning complex problems into simple, useful products, and optimizing them along the way.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend:** C#, .NET Core, ASP.NET Core, Node.js, NestJS, PostgreSQL, MongoDB
+- **Frontend:** React, Next.js, TypeScript, Tailwind, HTML5, CSS3/SCSS
+- **Mobile:** React Native, Swift & SwiftUI, Kotlin & Jetpack Compose
+- **AI:** OpenAI API, Anthropic SDK, RAG, Claude Code & Cursor
+
+## 📱 Side Projects
+
+Outside of work, I build apps simply because I enjoy it:
+
+- 🎵 **[iPod Classic](https://github.com/mrcanarda/ipod-classic-ios)**: A faithful iPod Classic replica in SwiftUI, with a working click wheel and music playback.
+- 🗺️ **[EraMap](https://github.com/mrcanarda/eramap-ios)**: An interactive map of historical events with a timeline slider.
+- 🍏 **[GreenApple](https://github.com/mrcanarda/GreenApple)**: A recipe discovery app with Firebase auth and MVVM architecture.
+
+## 🚀 Currently
+
+- Building an AI-powered job application tracker with **Python & FastAPI**
+
+📫 canarda.dev@gmail.com · [canarda.com](https://canarda.com) · [LinkedIn](https://www.linkedin.com/in/can-arda/)
